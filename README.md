@@ -42,7 +42,7 @@
 📜 prog2.c # ピッチ変更  
 
 📂 include/    
-📜 audio_processing.h # 音声処理用ヘッダ  
+📜 wavelib.h # 音声処理用ヘッダ （非公開）　　
 
 📂 data/    
 📜 org1.wav # **入力音声（やまびこ用）**   
